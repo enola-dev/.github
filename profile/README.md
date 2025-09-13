@@ -13,3 +13,5 @@
 ☕ [`awesome-java-ai`](https://github.com/enola-dev/awesome-java-ai) has Java AI related bookmarks.
 
 🔗 [`awesome-java-rdf`](https://github.com/enola-dev/awesome-java-rdf) has Java RDF related bookmarks.
+
+<!-- NB: https://github.com/enola-dev/.github/blob/main/SUPPORT.md has similar content, and should be kept up-to-date. -->
