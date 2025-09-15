@@ -6,7 +6,9 @@
 
 📖 [`docs.enola.dev`](https://docs.enola.dev) is documentation.
 
-🕵🏾‍♀️ [`enola`](https://github.com/enola-dev/enola) is the main code repo; 🧙 `*-agent` repos have _[the Enola 🔮 AI Agents](https://docs.enola.dev/agents/)!_
+🕵🏾‍♀️ [`enola`](https://github.com/enola-dev/enola) is the main code repo
+
+<!-- 🧙 `*-agent` repos have _[the Enola 🔮 AI Agents](https://docs.enola.dev/agents/)!_ -->
 
 ℹ️ [Support](https://docs.enola.dev/support/) 💼 / 🤝 [Discussions](https://github.com/orgs/enola-dev/discussions) / 💬 [Chat](https://github.com/enola-dev/enola/issues/1649)
 
