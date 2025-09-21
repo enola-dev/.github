@@ -10,7 +10,7 @@
 
 <!-- 🧙 `*-agent` repos have _[the Enola 🔮 AI Agents](https://docs.enola.dev/agents/)!_ -->
 
-ℹ️ [Support](https://docs.enola.dev/support/) 💼 / 🤝 [Discussions](https://github.com/orgs/enola-dev/discussions) / 💬 [Chat](https://github.com/enola-dev/enola/issues/1649)
+ℹ️ [Support](https://docs.enola.dev/support/) 💼 / 🤝 [Discussions](https://github.com/orgs/enola-dev/discussions) / 💬 [Chat](https://matrix.to/#/#enola.dev:matrix.org)
 
 ☕ [`awesome-java-ai`](https://github.com/enola-dev/awesome-java-ai) has Java AI related bookmarks.
 
